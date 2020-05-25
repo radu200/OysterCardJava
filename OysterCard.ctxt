@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=OysterCard
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=cardNumber
+comment2.target=OysterCard(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getCardNumber()
+comment4.params=
+comment4.target=double\ getBalance()
+comment5.params=amount
+comment5.target=boolean\ topUp(double)
+comment6.params=zone
+comment6.target=boolean\ touch(int)
+comment7.params=zoneIn\ zoneOut
+comment7.target=double\ getTripPrice(int,\ int)
+comment8.params=price
+comment8.target=void\ pay(double)
+numComments=9
